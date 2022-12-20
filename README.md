@@ -1,4 +1,4 @@
-# COSC33360-Assingment-1
+# COSC33360 Assingment 1
 
 Problem:
 For this assignment, you will create a multithreaded Shannon-Fano-Elias encoder (https://en.wikipedia.org/wiki/Shannon–Fano–Elias_coding).
