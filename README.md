@@ -42,4 +42,4 @@ NOTES:
 
 Not using multiple POSIX threads to implement your solution will translate into a penalty of 100%.
 You must use the output statement format based on the example above. 
-You can safely assume that the input will always be valid. 
+You can safely assume that the input will always be valid.
